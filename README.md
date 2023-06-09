@@ -14,10 +14,11 @@
 <p>👨‍💻 Software Development</p>
 
 <h2 style="font-size:50px;color:rgb(25,25,112);">Go-To Tech Stack</h2>
+
 <table style="undefined;table-layout: fixed; width: 515px">
 <colgroup>
 <col style="width: 90px">
-<col style="width: 85px; align: center">
+<col style="width: 85px">
 <col style="width: 85px">
 <col style="width: 85px">
 <col style="width: 85px">
@@ -131,7 +132,7 @@
     <td>✅</td>
   </tr>
   <tr>
-    <td>Scala<br></td>
+    <td>Scala</td>
     <td>✅</td>
     <td>✅</td>
     <td>✅</td>
@@ -165,6 +166,33 @@
 </tbody>
 </table>
 
+<h2 style="font-size:50px;color:rgb(25,25,112);">Favorite Ascii Artwork</h2>
+
+```
+                                          Neural Network Model - Pima Classifier
+
+      ▲ Cross-Entropy Loss                                                                            * Validation
+      ┤                                                                                                
+ 64.0 ┤                                                                                             
+      ┤  *                                                                                          
+ 56.0 ┤                                                                                             
+      ┤                                                                                             
+ 48.0 ┤                                                                                             
+      ┤           *  *                                                                              
+ 40.0 ┤     *  *                                                                                    
+      ┤                                                                                             
+ 32.0 ┤                 *                                                                           
+      ┤                                                                                             
+ 24.0 ┤                    *                 *  *                                                   
+      ┤                                                                                             
+ 16.0 ┤                       *  *     *  *        *                                                
+      ┤                             *                 *  *  *                 *                     
+  8.0 ┤                                                        *  *  *  *  *        *  *            
+      ┤                                                                          *        *  *  *  *
+      ┼──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──► Epoch / 100
+         0     2     4     6     8    10    12    14    16    18    20    22    24    26    28    30  
+
+```
 
 <!--
 **pedramfk/pedramfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
