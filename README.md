@@ -26,17 +26,17 @@
 </colgroup>
 <thead>
   <tr>
-    <th>Frameworks, Tools &amp; Languages<br></th>
+    <th>Frameworks, Tools &amp; Languages</th>
     <th>Data Engineering</th>
-    <th>Data Modeling<br></th>
+    <th>Data Modeling</th>
     <th>Data Analytics</th>
     <th>Data Visualization</th>
-    <th>Software Development<br></th>
+    <th>Software Development</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Spark</td>
+    <td><b>Spark</b></td>
     <td>✅</td>
     <td>✅</td>
     <td>✅</td>
@@ -44,7 +44,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>HDFS</td>
+    <td><b>HDFS</b></td>
     <td>✅</td>
     <td>✅</td>
     <td></td>
@@ -52,7 +52,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>Zeppelin</td>
+    <td><b>Zeppelin</b></td>
     <td></td>
     <td></td>
     <td>✅</td>
@@ -60,7 +60,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>Kafka</td>
+    <td><b>Kafka</b></td>
     <td>✅</td>
     <td></td>
     <td></td>
@@ -68,7 +68,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>NiFi</td>
+    <td><b>NiFi</b></td>
     <td>✅</td>
     <td>✅</td>
     <td></td>
@@ -76,7 +76,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>Metabase</td>
+    <td><b>Metabase</b></td>
     <td></td>
     <td></td>
     <td>✅</td>
@@ -84,7 +84,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>Tensorflow</td>
+    <td><b>Tensorflow</b></td>
     <td></td>
     <td>✅</td>
     <td></td>
@@ -92,7 +92,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>Statsmodels</td>
+    <td><b>Statsmodels</b></td>
     <td></td>
     <td>✅</td>
     <td>✅</td>
@@ -100,7 +100,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>Git</td>
+    <td><b>Git</b></td>
     <td>✅</td>
     <td></td>
     <td></td>
@@ -108,7 +108,7 @@
     <td>✅</td>
   </tr>
   <tr>
-    <td>Ansible</td>
+    <td><b>Ansible</b></td>
     <td>✅</td>
     <td></td>
     <td></td>
@@ -116,7 +116,7 @@
     <td>✅</td>
   </tr>
   <tr>
-    <td>Maven</td>
+    <td><b>Maven</b></td>
     <td>✅</td>
     <td></td>
     <td></td>
@@ -124,7 +124,7 @@
     <td>✅</td>
   </tr>
   <tr>
-    <td>Java</td>
+    <td><b>Java</b></td>
     <td>✅</td>
     <td>✅</td>
     <td></td>
@@ -132,7 +132,7 @@
     <td>✅</td>
   </tr>
   <tr>
-    <td>Scala</td>
+    <td><b>Scala</b></td>
     <td>✅</td>
     <td>✅</td>
     <td>✅</td>
@@ -140,7 +140,7 @@
     <td>✅</td>
   </tr>
   <tr>
-    <td>Python</td>
+    <td><b>Python</b></td>
     <td>✅</td>
     <td>✅</td>
     <td>✅</td>
@@ -148,7 +148,7 @@
     <td>✅</td>
   </tr>
   <tr>
-    <td>SQL</td>
+    <td><b>SQL</b></td>
     <td>✅</td>
     <td></td>
     <td>✅</td>
@@ -156,7 +156,7 @@
     <td>✅</td>
   </tr>
   <tr>
-    <td>Bash</td>
+    <td><b>Bash</b></td>
     <td>✅</td>
     <td></td>
     <td></td>
