@@ -1,9 +1,9 @@
-<p align='center'>
-  <div style='font-size:50px;color:rgb(25,25,112);'>
+<p align="center">
+  <div style='font-size:50px;color:rgb(25,25,112)'>
     <h1>Pedram Fathollahzadeh</h1> 
   </div>
 </p>
-<h2 style="font-size:50px;color:rgb(25,25,112);">Full-Stack Data Developer</h2>
+<h2 style=`font-size:50px;color:rgb(25, 25, 112)` color=`rgb(25, 25, 112)`>Full-Stack Data Developer</h2>
 
 <p>A senior developer with a background in Electrical Engineering and a M. Sc. in Mathematical Systems Theory from KTH with a passion for Big Data. Working with data analysis, modeling, setting up & optimizing scalable pipelines & architectural solutions as well as software development.</p>
 
@@ -15,7 +15,7 @@
 
 <h2 style="font-size:50px;color:rgb(25,25,112);">Go-To Tech Stack</h2>
 
-<table style="undefined;table-layout: fixed; width: 515px">
+<table style="undefined;table-layout: fixed">
 <colgroup>
 <col style="width: 90px">
 <col style="width: 85px">
@@ -37,7 +37,7 @@
 <tbody>
   <tr>
     <td><b>Spark</b></td>
-    <td>✅</td>
+    <td style="text-align: center; vertical-align: middle;">✅</td>
     <td>✅</td>
     <td>✅</td>
     <td></td>
