@@ -5,7 +5,7 @@
 </p>
 <h2 style=`font-size:50px;color:rgb(25, 25, 112)` color=`rgb(25, 25, 112)`>Full-Stack Data Developer</h2>
 
-<p>A senior developer with a background in Electrical Engineering and a M. Sc. in Mathematical Systems Theory from KTH with a passion for Big Data. Working with data analysis, modeling, setting up & optimizing scalable pipelines & architectural solutions as well as software development.</p>
+<p>A senior developer with a background in Electrical Engineering and a M. Sc. in Mathematical Optimization & Systems Theory from KTH with a passion for Big Data. Working with data analysis, modeling, setting up & optimizing scalable pipelines & architectural solutions as well as software development.</p>
 
 <p>📊 Data Analytics</p>
 <p>📦 Data Modeling & Machine Learning</p>
