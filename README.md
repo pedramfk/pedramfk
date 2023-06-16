@@ -1,17 +1,45 @@
-<p align="center">
-  <div style='font-size:50px;color:rgb(25,25,112)'>
-    <h1>Pedram Fathollahzadeh</h1> 
-  </div>
+$$\color{rgb(25,25,112)} \textbf{\huge{Pedram Fathollahzadeh}}$$
+
+<hr>
+
+$$\color{rgb(25,25,112)}\text{A senior full-stack data developer with a background in Electrical Engineering and a M. Sc. in Mathematical Optimization \\&}$$
+
+$$\color{rgb(25,25,112)}\text{Systems Theory from KTH with a passion for everything data related - currently specializing in Big Data. Working with data analysis,}$$
+
+$$\color{rgb(25,25,112)}\text{modeling, setting up and optimizing scalable pipelines \\& architectural solutions, novel research as well as software development.}$$
+
+<!--<p>A senior full-stack data developer with a background in <i>Electrical Engineering</i> and a M. Sc. in <i>Mathematical Optimization & Systems Theory</i> from KTH with a passion for everything data related - specializing in <i>Big Data</i>. Working with data analysis, modeling, setting up & optimizing scalable pipelines & architectural solutions as well as software development.</p>-->
+
+</br>
+
+
+<p>
+  <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Data Analytics &</b> 
+  <b>&emsp;&emsp;&emsp;Data Modeling &</b>
+  <b>&emsp;&emsp;&emsp;&emsp;&emsp;Data</b>
+  <b>&emsp;&emsp;&emsp;&emsp;&emsp;Architectural</b>
+  <b>&emsp;&emsp;&emsp;&emsp;Software</b>
+  </br>
+  <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Statistics</b>
+  <b>&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Machine Learning</b>
+  <b>&emsp;&emsp;&emsp;Engineering</b>
+  <b>&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Design</b>
+  <b>&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Development</b>
+  </br>
+  <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;📊</b>
+  <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;📦</b>
+  <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;👨‍🔧</b>
+  <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;👨‍🎨</b>
+  <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;👨‍💻</b>
 </p>
-<!--<h2 style=`font-size:50px;color:rgb(25, 25, 112)` color=`rgb(25, 25, 112)`>Full-Stack Data Developer</h2>-->
 
-<p>A senior full-stack data developer with a background in <i>Electrical Engineering</i> and a M. Sc. in <i>Mathematical Optimization & Systems Theory</i> from KTH with a passion for everything data related - specializing in <i>Big Data</i>. Working with data analysis, modeling, setting up & optimizing scalable pipelines & architectural solutions as well as software development.</p>
-
+<!--
 <p>&emsp;&emsp;📊 <b>Data Analytics & Statistics</b></p>
 <p>&emsp;&emsp;📦 <b>Data Modeling & Machine Learning</b></p>
 <p>&emsp;&emsp;👨‍🔧 <b>Data Engineering</b></p>
 <p>&emsp;&emsp;👨‍🎨 <b>Architectural Design</b></p>
 <p>&emsp;&emsp;👨‍💻 <b>Software Development</b></p>
+-->
 
 </br>
 
@@ -20,6 +48,8 @@
   </br>
   <i>&emsp;» Feel free to email me at: <a href = "mailto: pedramfk@kth.se">pedramfk@kth.se</a>&nbsp;&nbsp;&nbsp;</i>📫
 </p>
+
+<hr>
 
 <h2 style="font-size:50px;color:rgb(25,25,112);">Go-To Tech Stack</h2>
 
@@ -173,6 +203,8 @@
   </tr>
 </tbody>
 </table>
+
+- - -
 
 <h2 style="font-size:50px;color:rgb(25,25,112);">Favorite Ascii Artwork</h2>
 
