@@ -3,15 +3,23 @@
     <h1>Pedram Fathollahzadeh</h1> 
   </div>
 </p>
-<h2 style=`font-size:50px;color:rgb(25, 25, 112)` color=`rgb(25, 25, 112)`>Full-Stack Data Developer</h2>
+<!--<h2 style=`font-size:50px;color:rgb(25, 25, 112)` color=`rgb(25, 25, 112)`>Full-Stack Data Developer</h2>-->
 
-<p>A senior developer with a background in Electrical Engineering and a M. Sc. in Mathematical Optimization & Systems Theory from KTH with a passion for Big Data. Working with data analysis, modeling, setting up & optimizing scalable pipelines & architectural solutions as well as software development.</p>
+<p>A senior full-stack data developer with a background in <i>Electrical Engineering</i> and a M. Sc. in <i>Mathematical Optimization & Systems Theory</i> from KTH with a passion for everything data related - specializing in <i>Big Data</i>. Working with data analysis, modeling, setting up & optimizing scalable pipelines & architectural solutions as well as software development.</p>
 
-<p>📊 Data Analytics</p>
-<p>📦 Data Modeling & Machine Learning</p>
-<p>👨‍🔧 Data Engineering</p>
-<p>👨‍🎨 Data Architecture</p>
-<p>👨‍💻 Software Development</p>
+<p>&emsp;&emsp;📊 <b>Data Analytics & Statistics</b></p>
+<p>&emsp;&emsp;📦 <b>Data Modeling & Machine Learning</b></p>
+<p>&emsp;&emsp;👨‍🔧 <b>Data Engineering</b></p>
+<p>&emsp;&emsp;👨‍🎨 <b>Architectural Design</b></p>
+<p>&emsp;&emsp;👨‍💻 <b>Software Development</b></p>
+
+</br>
+
+<p>
+  <i>Have any questions or want to exchange ideas?&nbsp;&nbsp;</i>🤔
+  </br>
+  <i>&emsp;» Feel free to email me at: <a href = "mailto: pedramfk@kth.se">pedramfk@kth.se</a>&nbsp;&nbsp;&nbsp;</i>📫
+</p>
 
 <h2 style="font-size:50px;color:rgb(25,25,112);">Go-To Tech Stack</h2>
 
