@@ -43,6 +43,8 @@ $$\color{rgb(25,25,112)}\text{novel research as well as software development.}$$
 <p>&emsp;&emsp;👨‍💻 <b>Software Development</b></p>
 -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=1000&pause=300&color=191970&multiline=true&width=300&height=200&lines=Some+Favorite+Topics;%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80;+%C2%B7+Anomaly+Detection;+%C2%B7+Time-Series+Analysis;+%C2%B7+Data+Streaming+Pipelines;%C2%B7+AI+Game+Engines;+%C2%B7+Ascii+Art)](https://git.io/typing-svg)
+
 </br>
 
 <p>
