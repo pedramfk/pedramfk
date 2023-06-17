@@ -1,20 +1,30 @@
-$$\color{rgb(25,25,112)} \textbf{\huge{Pedram Fathollahzadeh}}$$
+$$
+  \color{rgb(25,25,112)} \textbf{\huge{Pedram Fathollahzadeh}}
+$$
 
 <hr>
 
-$$\color{rgb(25,25,112)}\text{A senior full-stack data developer with a background in Electrical Engineering and a M. Sc. in Mathematical}$$
+$$
+  \color{rgb(25,25,112)}\text{A senior full-stack data developer with a background in Electrical Engineering and a M. Sc. in Mathematical}
+$$
 
-$$\color{rgb(25,25,112)}\text{Optimization \\& Systems Theory from KTH with a passion for everything data related - currently specializing in Big Data.}$$
+$$
+  \color{rgb(25,25,112)}\text{Optimization \\& Systems Theory from KTH with a passion for everything data related - currently specializing in Big Data.}
+$$
 
-$$\color{rgb(25,25,112)}\text{Working with data analysis, modeling, setting up and optimizing scalable pipelines \\& architectural solutions,}$$
+$$
+  \color{rgb(25,25,112)}\text{Working with data analysis, modeling, setting up and optimizing scalable pipelines \\& architectural solutions,}
+$$
 
-$$\color{rgb(25,25,112)}\text{novel research as well as software development.}$$
+$$
+  \color{rgb(25,25,112)}\text{novel research as well as software development.}
+$$
 
-<!--<p>A senior full-stack data developer with a background in <i>Electrical Engineering</i> and a M. Sc. in <i>Mathematical Optimization & Systems Theory</i> from KTH with a passion for everything data related - specializing in <i>Big Data</i>. Working with data analysis, modeling, setting up & optimizing scalable pipelines & architectural solutions as well as software development.</p>-->
+<!--
+<p>A senior full-stack data developer with a background in <i>Electrical Engineering</i> and a M. Sc. in <i>Mathematical Optimization & Systems Theory</i> from KTH with a passion for everything data related - specializing in <i>Big Data</i>. Working with data analysis, modeling, setting up & optimizing scalable pipelines & architectural solutions as well as software development.</p>
+-->
 
 </br>
-
-
 <p>
   <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Data Analytics &</b> 
   <b>&emsp;&emsp;&emsp;Data Modeling &</b>
@@ -43,17 +53,22 @@ $$\color{rgb(25,25,112)}\text{novel research as well as software development.}$$
 <p>&emsp;&emsp;👨‍💻 <b>Software Development</b></p>
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=1000&pause=300&color=191970&multiline=true&width=300&height=200&lines=Some+Favorite+Topics;%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80;+%C2%B7+Anomaly+Detection;+%C2%B7+Time-Series+Analysis;+%C2%B7+Data+Streaming+Pipelines;%C2%B7+AI+Game+Engines;+%C2%B7+Ascii+Art)](https://git.io/typing-svg)
-
 </br>
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=1000&pause=300&color=191970&multiline=true&width=300&height=200&lines=Some+Favorite+Topics;%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80;+%C2%B7+Anomaly+Detection;+%C2%B7+Time-Series+Analysis;+%C2%B7+Data+Streaming+Pipelines;%C2%B7+AI+Game+Engines;+%C2%B7+Ascii+Art" alt="Typing SVG" /></a>
+</div>
+<br>
+
+<div align="center">
 <p>
   <i>Have any questions or want to exchange ideas?&nbsp;&nbsp;</i>🤔
   </br>
-  <i>&emsp;» Feel free to email me at: <a href = "mailto: pedramfk@kth.se">pedramfk@kth.se</a>&nbsp;&nbsp;&nbsp;</i>📫
+  <i>&nbsp;» Feel free to email me at: <a href = "mailto: pedramfk@kth.se">pedramfk@kth.se</a>&nbsp;&nbsp;&nbsp;</i>📫
 </p>
+</div>
 
-<hr>
+- - -
 
 <h2 style="font-size:50px;color:rgb(25,25,112);">Go-To Tech Stack</h2>
 
