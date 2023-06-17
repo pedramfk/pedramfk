@@ -2,11 +2,13 @@ $$\color{rgb(25,25,112)} \textbf{\huge{Pedram Fathollahzadeh}}$$
 
 <hr>
 
-$$\color{rgb(25,25,112)}\text{A senior full-stack data developer with a background in Electrical Engineering and a M. Sc. in Mathematical Optimization \\&}$$
+$$\color{rgb(25,25,112)}\text{A senior full-stack data developer with a background in Electrical Engineering and a M. Sc. in Mathematical}$$
 
-$$\color{rgb(25,25,112)}\text{Systems Theory from KTH with a passion for everything data related - currently specializing in Big Data. Working with data analysis,}$$
+$$\color{rgb(25,25,112)}\text{Optimization \\& Systems Theory from KTH with a passion for everything data related - currently specializing in Big Data.}$$
 
-$$\color{rgb(25,25,112)}\text{modeling, setting up and optimizing scalable pipelines \\& architectural solutions, novel research as well as software development.}$$
+$$\color{rgb(25,25,112)}\text{Working with data analysis, modeling, setting up and optimizing scalable pipelines \\& architectural solutions,}$$
+
+$$\color{rgb(25,25,112)}\text{novel research as well as software development.}$$
 
 <!--<p>A senior full-stack data developer with a background in <i>Electrical Engineering</i> and a M. Sc. in <i>Mathematical Optimization & Systems Theory</i> from KTH with a passion for everything data related - specializing in <i>Big Data</i>. Working with data analysis, modeling, setting up & optimizing scalable pipelines & architectural solutions as well as software development.</p>-->
 
@@ -14,19 +16,19 @@ $$\color{rgb(25,25,112)}\text{modeling, setting up and optimizing scalable pipel
 
 
 <p>
-  <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Data Analytics &</b> 
+  <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Data Analytics &</b> 
   <b>&emsp;&emsp;&emsp;Data Modeling &</b>
   <b>&emsp;&emsp;&emsp;&emsp;&emsp;Data</b>
   <b>&emsp;&emsp;&emsp;&emsp;&emsp;Architectural</b>
   <b>&emsp;&emsp;&emsp;&emsp;Software</b>
   </br>
-  <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Statistics</b>
+  <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Statistics</b>
   <b>&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Machine Learning</b>
   <b>&emsp;&emsp;&emsp;Engineering</b>
   <b>&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Design</b>
   <b>&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Development</b>
   </br>
-  <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;📊</b>
+  <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;📊</b>
   <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;📦</b>
   <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;👨‍🔧</b>
   <b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;👨‍🎨</b>
